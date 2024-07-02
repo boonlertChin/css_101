@@ -45,4 +45,5 @@ input:not(:placeholder-shown) + .form-label {
     background: gold;
     color: #333;
     font-size: 0.85rem;
+    border-radius: 3px;
 }
